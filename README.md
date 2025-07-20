@@ -26,3 +26,11 @@ A lightweight and interactive web-based note-taking application built with HTML,
 
 ## 📂 Project Structure
 
+quicknote-pro/
+├── index.html # Main HTML file
+├── write.css # Custom styling
+├── notes.js # All JavaScript logic
+├── jquery-3.7.1.js # jQuery library
+└── README.md # Project documentation
+
+
